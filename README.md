@@ -1,4 +1,4 @@
-# Vasculature-Instance-Segmentation-YOLOv8
+# Text-Summarizer-Transformers
 
 This repository contains a Python project that leverages the power of transformer-based models for text summarization. Text summarization is the process of reducing a long piece of text to a concise and coherent summary. This project provides an easy-to-use interface for summarizing documents, articles, or any text input using state-of-the-art transformer models.
 
